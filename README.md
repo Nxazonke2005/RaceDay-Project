@@ -8,7 +8,9 @@ RaceDay is a race management system where Organisers can create events and Parti
 - **Participant**: View events, enrol, see results
 
 ## CI/CD Status
- Green build passed
+<img width="954" height="82" alt="image" src="https://github.com/user-attachments/assets/f2a6afab-27be-4fd5-b532-e255c1613374" />
+
+
 
 ## Video Walkthrough
 [YouTube Link]
