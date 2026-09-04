@@ -1,16 +1,17 @@
 name: Check Docs Folder
 on: [push]
+
 jobs:
   check:
     runs-on: ubuntu-latest
     steps:
-      - uses: actions/checkout@v3
+      - uses: actions/checkout@v4
       - name: Verify docs
         run: |
           if [ -d "docs" ] && [ -f "docs/erd.png" ] && [ -f "docs/api-endpoints.md" ] && [ -f "docs/database-script.sql" ]; then
             echo " All files present"
             exit 0
           else
-            echo " Missing files"
+            echo "Missing files"
             exit 1
           fi
