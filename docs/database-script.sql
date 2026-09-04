@@ -1,4 +1,4 @@
--- RaceDay Database Script
+-- RaceDayDB Database Script
 -- Part 1 - System Planning and Database
 
 CREATE DATABASE RaceDayDB;
