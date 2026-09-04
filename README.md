@@ -11,7 +11,9 @@ RaceDay is a race management system where Organisers can create events and Parti
  Green build passed
 
 ## Video Walkthrough
-[YouTube Link](https://youtu.be/YOUR_VIDEO_LINK_HERE)
+[YouTube Link]
+https://youtu.be/vtMtTpCdPCA
+
 
 ## Setup Instructions
 1. Open SSMS
