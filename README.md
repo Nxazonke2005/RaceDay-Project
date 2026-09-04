@@ -16,6 +16,7 @@ RaceDay is a race management system where Organisers can create events and Parti
 [YouTube Link]
 https://youtu.be/vtMtTpCdPCA
 https://youtu.be/UaYxjeHRr2U
+https://youtu.be/M1IUNwUOynE
 
 
 ## Setup Instructions
